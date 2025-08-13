@@ -1,2 +1,2 @@
 # carolina-projects
-espaço pessoal para compartilhar projetos e atividades 
+Espaço pessoal para compartilhar projetos e atividades. 
