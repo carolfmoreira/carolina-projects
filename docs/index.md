@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# Carolina Projects
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+Sou a *Carolina*, mais conhecida como *Carol*. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Sou servidora pública há 11 anos com experiência na área de **planejamento e orçamento públicos**. Essa página será para **catalogar porjetos a serem desenvolvidos** no meu setor. 
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[Veja meu perfil no Github](https://github.com/carolfmoreira)
