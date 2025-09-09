@@ -1,3 +1,3 @@
 # Blog
 
-navegue pelos posts.
+Navegue pelos posts.
